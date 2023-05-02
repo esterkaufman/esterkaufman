@@ -3,7 +3,7 @@
 I’m Ester Kaufman, a senior web fullstack engineer.
  
 
-## My Stack
+## My Stack 🏢
 
 - C# & .NetCore Latest
 - TypeScript
@@ -18,7 +18,7 @@ I’m Ester Kaufman, a senior web fullstack engineer.
 - `CIAM - Customer Identity Access Management`
 - Digital identity
 
-## Points of interest
+## Points of interest 💡
 - Machine Learning concepts (theory & coding)
 - [OAuth 3.0]()
 - [Orleans](https://github.com/dotnet/orleans)
@@ -27,7 +27,7 @@ I’m Ester Kaufman, a senior web fullstack engineer.
 - Clean Architecture, Clean Code, Actors Model(AKKA), 
 - [XState](https://xstate.js.org/docs/), [Statecharts](https://statecharts.dev/)
 
-## Latest blog posts
+## Latest blog posts 📖
 
 <!-- BLOG:START -->
 - [Finite State Machine As Software Modeling](https://esterkaufman.wordpress.com/2022/12/15/finite-state-machine/)
@@ -40,7 +40,7 @@ I’m Ester Kaufman, a senior web fullstack engineer.
 
 <!-- BLOG:END -->
 
-## Interesting projects
+## Interesting projects ↗️
 
  Currently work on implement ML models in js.
  Live preview: [TensorFlow-Angular-Playground](https://github.com/esterkaufman/TensorFlow-Angular-Playground)
